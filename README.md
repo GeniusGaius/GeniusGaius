@@ -1,6 +1,6 @@
 # 👋 Hi, I’m John Gaius Maichibi
 
-## Data Analyst | Insight-Driven Storyteller | Excel, SQL & Power BI Specialist
+## Business Data Analyst | Insight-Driven Storyteller | Excel, SQL & Power BI Specialist
 
 Welcome to my corner of the data world.
 
@@ -62,6 +62,7 @@ My work isn’t just academic. Every project here is grounded in real-world scen
 If you’re looking for a committed analyst with curiosity, strategic thinking, and empathy behind the numbers—I’d love to connect.
 
 - 📧 **maichibijohn@gmail.com**
+- 📞 **+2348144284498** (WhatsApp)
 - 📍 Based in Nigeria | Available Globally
 
 ---
