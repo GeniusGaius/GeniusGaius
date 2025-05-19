@@ -1,5 +1,4 @@
-# 👋 Hi, I’m John Gaius Maichibi
-
+# 👋 Hi, I’m John Gaius Maichibi 
 ## Business Data Analyst | Insight-Driven Storyteller | Excel, SQL & Power BI Specialist
 
 Welcome to my corner of the data world.
